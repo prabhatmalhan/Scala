@@ -60,27 +60,27 @@
     </tr>    
     <tr>
       <td>Nested Functions in Scala</td>
-      <td> <a href="./Week4/NestedFunction.scala">Problem1.scala</a> </td>
+      <td> <a href="./Week4/NestedFunction.scala">NestedFunction.scala</a> </td>
       <td>-</td>
     </tr>    
     <tr>
       <td>Multiple Nested Functions in Scala</td>
-      <td> <a href="./Week4/MultiNestedFunction.scala">Problem2.scala</a> </td>
+      <td> <a href="./Week4/MultiNestedFunction.scala">MultiNestedFunction.scala</a> </td>
       <td>-</td>
     </tr>    
     <tr>
       <td>Nested Even-Odd Functions in Scala</td>
-      <td> <a href="./Week4/EO_NestedFinction.scala">Problem3.scala</a> </td>
+      <td> <a href="./Week4/EO_NestedFunction.scala">EO_NestedFunction.scala</a> </td>
       <td>-</td>
     </tr>    
     <tr>
       <td>Multiple Nested Even-Odd Functions in Scala</td>
-      <td> <a href="./Week4/EO_MultiNested.scala">Problem4.scala</a> </td>
+      <td> <a href="./Week4/EO_MultiNested.scala">EO_MultiNested.scala</a> </td>
       <td>-</td>
     </tr>
     <tr>
-      <td>Inline functions in Scala</td>
-      <td> <a href="./Week4/InlineFunction.scala">Problem5.scala</a> </td>
+      <td>Inline Functions in Scala</td>
+      <td> <a href="./Week4/InlineFunction.scala"InlineFunction.scala</a> </td>
       <td>-</td>
     </tr>
   </tbody>
