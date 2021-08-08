@@ -6,6 +6,7 @@ object MaxAndMin
     println("Min and Max from 8,7")
     maxAndMin(8,7);
   }
+  
   // Function
   def maxAndMin(a: Int, b: Int) = {
     
