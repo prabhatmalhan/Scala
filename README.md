@@ -80,7 +80,7 @@
     </tr>
     <tr>
       <td>Inline Functions in Scala</td>
-      <td> <a href="./Week4/InlineFunction.scala"InlineFunction.scala</a> </td>
+      <td> <a href="./Week4/InlineFunction.scala">InlineFunction.scala</a> </td>
       <td>-</td>
     </tr>
   </tbody>
