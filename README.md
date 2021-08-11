@@ -83,5 +83,28 @@
       <td> <a href="./Week4/InlineFunction.scala">InlineFunction.scala</a> </td>
       <td>-</td>
     </tr>
+    <tr> 
+      <td colspan=3 align="center"><b>Week 5</b></td>
+    </tr>    
+    <tr>
+      <td>Calculator of 2 variables</td>
+      <td> <a href="./Week5/calculator.scala">calculator.scala</a> </td>
+      <td>-</td>
+    </tr>    
+    <tr>
+      <td>Check for Prime</td>
+      <td> <a href="./Week5/primeCheck.scala">primeCheck.scala</a> </td>
+      <td>-</td>
+    </tr>    
+    <tr>
+      <td>Converter</td>
+      <td> <a href="./Week5/converter.scala">converter.scala</a> </td>
+      <td>-</td>
+    </tr>    
+    <tr>
+      <td>x^y inplementation in Scala</td>
+      <td> <a href="./Week5/powerFun.scala">powerFun.scala</a> </td>
+      <td>-</td>
+    </tr>
   </tbody>
 </table>
