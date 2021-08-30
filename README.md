@@ -106,5 +106,28 @@
       <td> <a href="./Week5/powerFun.scala">powerFun.scala</a> </td>
       <td>-</td>
     </tr>
+    <tr> 
+      <td colspan=3 align="center"><b>Week 6</b></td>
+    </tr>    
+    <tr>
+      <td>Diffrent uses of for expression</td>
+      <td> <a href="./Week6/forLoop.scala">forLoop.scala</a> </td>
+      <td>-</td>
+    </tr>    
+    <tr>
+      <td>Basic List Functions</td>
+      <td> <a href="./Week6/Student.scala">Student.scala</a> </td>
+      <td>-</td>
+    </tr>    
+    <tr>
+      <td>Initializing and reversing List</td>
+      <td> <a href="./Week6/RevList.scala">RevList.scala</a> </td>
+      <td>-</td>
+    </tr>    
+    <tr>
+      <td>More Functions of List</td>
+      <td> <a href="./Week6/ListFun.scala">ListFun.scala</a> </td>
+      <td>-</td>
+    </tr>
   </tbody>
 </table>
