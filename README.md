@@ -1,4 +1,4 @@
-# Scala Submission
+Dog.scala# Scala Submission
 ### Name : Prabhat Malhan
 ### Section : ML
 ### Roll No. : 51
@@ -10,7 +10,7 @@
     <tr>
       <th>Problem Statement</th>
       <th>Solution</th>
-      <th>Input Files / Output File</th>
+      <th>Remark</th>
     </tr>
   </thead>
   <tbody>    
@@ -128,6 +128,95 @@
       <td>More Functions of List</td>
       <td> <a href="./Week6/ListFun.scala">ListFun.scala</a> </td>
       <td>-</td>
+    </tr>
+    <tr> 
+      <td colspan=3 align="center"><b>Week 7</b></td>
+    </tr>    
+    <tr>
+      <td>Closure Function</td>
+      <td> <a href="./Week7/PrintString.scala">PrintString.scala</a> </td>
+      <td>-</td>
+    </tr>    
+    <tr>
+      <td>Eligibility for Voting</td>
+      <td> <a href="./Week7/VotingEligible.scala">VotingEligible.scala</a> </td>
+      <td>-</td>
+    </tr>  
+    <tr>
+      <td rowspan=3>Single Trait</td> 
+      <td> <a href="./Week7/Single_Trait/Trait1.scala">Trait1.scala</a> </td>
+      <td>Trait</td>
+    </tr>
+    <tr>
+      <td> <a href="./Week7/Single_Trait/DemoClass.scala">DemoClass.scala</a> </td>
+      <td>Class</td>
+    </tr>
+    <tr>
+      <td> <a href="./Week7/Single_Trait/printValues.scala">printValues.scala</a> </td>
+      <td>Object</td>
+    </tr>
+    <tr>
+      <td rowspan=4>Multiple Traits</td> 
+      <td> <a href="./Week7/Multiple_Traits/MyTrait1.scala">MyTrait1.scala</a> </td>
+      <td>Trait</td>
+    </tr>
+    <tr>
+      <td> <a href="./Week7/Multiple_Traits/MyTrait2.scala">MyTrait2.scala</a> </td>
+      <td>Trait</td>
+    </tr>
+    <tr>
+      <td> <a href="./Week7/Multiple_Traits/DemoClass.scala">DemoClass.scala</a> </td>
+      <td>Class</td>
+    </tr>
+    <tr>
+      <td> <a href="./Week7/Multiple_Traits/multiTraitDemo.scala">multiTraitDemo.scala</a> </td>
+      <td>Object</td>
+    </tr>
+    <tr>
+      <td rowspan=4>Car Information using traits</td> 
+      <td> <a href="./Week7/Car_Trait/Init_Info.scala">Init_Info.scala</a> </td>
+      <td>Trait</td>
+    </tr>
+    <tr>
+      <td> <a href="./Week7/Car_Trait/Spec_Info.scala">Spec_Info.scala</a> </td>
+      <td>Trait</td>
+    </tr>
+    <tr>
+      <td> <a href="./Week7/Car_Trait/Car.scala">Car.scala</a> </td>
+      <td>Class</td>
+    </tr>
+    <tr>
+      <td> <a href="./Week7/Car_Trait/car_info.scala">car_info.scala</a> </td>
+      <td>Object</td>
+    </tr>
+    <tr>
+      <td rowspan=7>Animals using traits</td> 
+      <td> <a href="./Week7/Animal_Info/Dog.scala">Dog.scala</a> </td>
+      <td>Trait</td>
+    </tr>
+    <tr>
+      <td> <a href="./Week7/Animal_Info/voice.scala">voice.scala</a> </td>
+      <td>Trait</td>
+    </tr>
+    <tr>
+      <td> <a href="./Week7/Animal_Info/TailWagging.scala">TailWagging.scala</a> </td>
+      <td>Trait</td>
+    </tr>
+    <tr>
+      <td> <a href="./Week7/Animal_Info/Running.scala">Running.scala</a> </td>
+      <td>Trait</td>
+    </tr>
+    <tr>
+      <td> <a href="./Week7/Animal_Info/Eating.scala">Eating.scala</a> </td>
+      <td>Trait</td>
+    </tr>
+    <tr>
+      <td> <a href="./Week7/Animal_Info/Animal.scala">Animal.scala</a> </td>
+      <td>Class</td>
+    </tr>
+    <tr>
+      <td> <a href="./Week7/Animal_Info/animalOps.scala">animalOps.scala</a> </td>
+      <td>Object</td>
     </tr>
   </tbody>
 </table>
