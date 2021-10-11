@@ -1,9 +1,14 @@
 Dog.scala# Scala Submission
+
 ### Name : Prabhat Malhan
+
 ### Section : ML
+
 ### Roll No. : 51
+
 ### University Roll No. : 2015257
-# 
+
+#
 
 <table>
   <thead>
@@ -218,5 +223,33 @@ Dog.scala# Scala Submission
       <td> <a href="./Week7/Animal_Info/animalOps.scala">animalOps.scala</a> </td>
       <td>Object</td>
     </tr>
+    <tr> 
+      <td colspan=3 align="center"><b>Week 10</b></td>
+    </tr>    
+    <tr>
+      <td>Check for Palindrome</td>
+      <td> <a href="./Week10/Palindrome.scala">Palindrome.scala</a> </td>
+      <td>-</td>
+    </tr>    
+    <tr>
+      <td>Finding Last position of Element</td>
+      <td> <a href="./Week10/LisLastPos.scala">LisLastPos.scala</a> </td>
+      <td>-</td>
+    </tr>    
+    <tr>
+      <td>Seperation of even-odd</td>
+      <td> <a href="./Week10/evenOdd.scala">evenOdd.scala</a> </td>
+      <td>-</td>
+    </tr>    
+    <tr>
+      <td>Each element count in list</td>
+      <td> <a href="./Week10/elementCount.scala">elementCount.scala</a> </td>
+      <td>-</td>
+    </tr>    
+    <tr>
+      <td>Splitting list in Scala</td>
+      <td> <a href="./Week10/splitList.scala">splitList.scala</a> </td>
+      <td>-</td>
+    </tr>    
   </tbody>
 </table>
